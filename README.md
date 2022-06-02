@@ -20,16 +20,27 @@ Working on everything else first.
 CheckList:
 
 X  Movement
+
 X  Camera scrpit
+
 X  Collisions
+
 X  Interactions
+
    Scene Switches
+   
    Dynamic Lighting
+   
 X  NPC dialogue
+
    NPC movement
+   
    Inventory
+   
    Player HUD
+   
    Core Game Mechanics
+   
 
 
 
